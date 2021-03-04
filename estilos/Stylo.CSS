@@ -5,4 +5,8 @@
     box-sizing: border-box;
 }
 
+header{
+    padding: 20px 0;
+    background-color: #bbbbbb;
+}
 
