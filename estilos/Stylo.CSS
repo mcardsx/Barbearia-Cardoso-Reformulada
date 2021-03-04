@@ -17,3 +17,8 @@ header{
 }
 /* a Nav é absoluta em relação a caixa relativa, a caixa prende a Nav dentro dela*/
 
+nav{
+    position: absolute;
+    top: 50%;
+    right: 0;
+}
