@@ -10,3 +10,10 @@ header{
     background-color: #bbbbbb;
 }
 
+.caixa-para-estilo-do-cabeçalho{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+/* a Nav é absoluta em relação a caixa relativa, a caixa prende a Nav dentro dela*/
+
