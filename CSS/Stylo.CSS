@@ -10,7 +10,7 @@ header{
     background-color: #bbbbbb;
 }
 
-.caixa-para-estilo-do-cabeçalho{
+.caixa-para-estilo-do-cabecalho{
     width: 940px;
     position: relative;
     margin: 0 auto;
@@ -21,4 +21,24 @@ nav{
     position: absolute;
     top: 50%;
     right: 0;
+}
+
+.caixa-logo{
+    width: 277px;
+    height: 231px;    
+    position: relative;
+}
+
+.reforjed{
+    margin-left: 26.5%;
+}
+
+#Logo{
+    max-width: 40%;
+    max-height: 40%;
+    margin-left: 28%;
+}
+
+#banner{
+    width: 100%;
 }
