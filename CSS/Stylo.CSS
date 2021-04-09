@@ -21,6 +21,11 @@ nav{
     position: absolute;
     top: 50%;
     right: 0;
+    
+}
+
+nav li{
+    display: inline;
 }
 
 .caixa-logo{
